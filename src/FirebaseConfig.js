@@ -4,12 +4,12 @@ import { getAuth, GoogleAuthProvider, initializeAuth, getReactNativePersistence 
 import AsyncStorage from '@react-native-async-storage/async-storage';
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDlrIv6YPph_K0xMy-S8745sZ7i9yOxGvE",
-  authDomain: "app-movie19.firebaseapp.com",
-  projectId: "app-movie19",
-  storageBucket: "app-movie19.appspot.com",
-  messagingSenderId: "684941877611",
-  appId: "1:684941877611:web:d46966f5304d904b422c2e"
+  apiKey: "Your Api Key",
+  authDomain: "Your Auth domain",
+  projectId: "Your project id",
+  storageBucket: "Your storage BUcket",
+  messagingSenderId: "",
+  appId: "Your app id"
 };
 
 // Inicializar Firebase
